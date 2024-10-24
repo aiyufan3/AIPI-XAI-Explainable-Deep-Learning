@@ -78,22 +78,3 @@ The project follows these steps:
 ## Results
 
 The t-test yielded a **p-value of 0.38**, indicating no statistically significant difference in pixel importance between correctly and misclassified images. Visualizations of saliency maps showed more coherent regions for correctly classified images but did not reveal a clear distinction between the two groups based on pixel importance alone.
-
-For more detailed results, refer to the [visualization section](#usage) in the notebook.
-
-## Contributing
-
-Contributions are welcome! If you'd like to improve this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-This README provides a clear overview of the project, instructions on how to run it, and details on how to contribute. You can further modify this to reflect your specific repository details, such as project names, GitHub URLs, and other customizations.
